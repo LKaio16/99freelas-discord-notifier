@@ -1,7 +1,7 @@
 # 🤖 Bot 99Freelas Notifier
 
 <div align="center">
-  <img src="https://www.99freelas.com.br/assets/images/logo-99freelas.png" alt="99Freelas Logo" width="200"/>
+  <img src="https://github.com/LKaio16/99freelas-discord-notifier/blob/main/logo.png" alt="99Freelas Logo" width="200"/>
   
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
   [![Discord](https://img.shields.io/badge/Discord-Bot-7289DA.svg)](https://discord.com/)
@@ -45,6 +45,7 @@ Bot automatizado para o Discord que monitora a página de projetos do [99Freelas
 3. **Configure o token do bot**
    - Edite o arquivo `config.env`
    - Substitua `SEU_TOKEN_AQUI` pelo token do seu bot
+     </br> </br>
    ```env
    DISCORD_TOKEN=seu_token_do_bot_aqui
    ```
